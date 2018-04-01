@@ -4,7 +4,7 @@ meta-news app in React and Redux
 ## Run the app
 
 ```
-git clone https://gitlab.jgjorgji.com/meta-news/frontend
+git clone https://github.com/EraseAndRewind/frontend
 
 cd frontend
 npm install
